@@ -1,4 +1,4 @@
 bearded-agama
 =============
 
-Playground for gradel
+Playground for gradle
